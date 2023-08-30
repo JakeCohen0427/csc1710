@@ -1,2 +1,2 @@
 # csc1710
-csc1710 labs at high point university (Done by myself)
+Assigned labs in the csc1710 course at Highpoint university
